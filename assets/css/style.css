@@ -88,10 +88,26 @@ nav{
 
 /* Main content*/
 main {
-    background-color: lightblue;
+    
     /* Make main element take up any surplus space to push footer down*/
     flex: 1 0 auto;
     margin-top: 47px;
+}
+
+#little-offerbox {
+    background-color: green;
+    width: 100%;
+    height: 200px;
+    position: fixed;
+    display: flex;
+    justify-content: space-evenly;
+
+}
+
+.mini-offerbox {
+    background-color: blueviolet;
+    width: 100px;
+    height: 100px;
 }
 
 /* Footer */
