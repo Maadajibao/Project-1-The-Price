@@ -95,10 +95,12 @@ main {
 }
 
 /* Mini-box under header*/
+
+
 #little-offerbox-1 {
     background-color: #ffffff;
     width: 100%;
-    height: 150px;
+    height: 200px;
     display: flex;
     justify-content: space-evenly;
 
@@ -107,7 +109,7 @@ main {
 #little-offerbox-2 {
     background-color: #ffffff;
     width: 100%;
-    height: 150px;
+    height: 200px;
     display: flex;
     justify-content: space-evenly;
 
@@ -154,6 +156,26 @@ main {
 
 #offical-offerbox {
     
+}
+
+#offical-main-offerbox {
+    background: url(../images/pexels-photo-264636.jpeg) center center / cover no-repeat;
+    width: 1125px;
+    height: 750px;
+
+}
+
+#offical-mini-offerbox-left {
+    background-color: blue;
+    width: 100px;
+    height: 200px;
+
+}
+
+#offical-mini-offerbox-right {
+    background-color: red;
+    width: 100px;
+    height: 200px;
 }
 
 /* Footer */
