@@ -155,27 +155,37 @@ main {
 
 
 #offical-offerbox {
-    
+   
 }
 
 #offical-main-offerbox {
-    background: url(../images/pexels-photo-264636.jpeg) center center / cover no-repeat;
-    width: 1125px;
+    width: 100%;
     height: 750px;
-
+    background: url(../images/pexels-photo-264636.jpeg) center center / cover no-repeat;
+    position: relative;
+    margin-top: 50px;
 }
 
+
 #offical-mini-offerbox-left {
-    background-color: blue;
-    width: 100px;
-    height: 200px;
+    width: 200px;
+    height: 300px;
+    background-color: red;
+    position: relative;
+    bottom: 780px;
+    left: -10px;
 
 }
 
 #offical-mini-offerbox-right {
+    width: 200px;
+    height: 300px;
     background-color: red;
-    width: 100px;
-    height: 200px;
+    position: relative;
+    bottom: 570px;
+    left: 80px;
+    
+
 }
 
 /* Footer */
