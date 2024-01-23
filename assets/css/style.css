@@ -245,7 +245,7 @@ main {
  margin: 1rem;
 }
 
-.store-session > h2,h3, h4 {
+.store-session > h2, .store-session > h3, .store-session > h4 {
     margin: 1rem;
 }
 
@@ -257,6 +257,11 @@ main {
 hr {
     margin: 40px 0;
 }
+
+.container-info-box {
+    color: red;
+    margin-top: 20px;
+    }
 
 /* Footer */
 #social-networks {
