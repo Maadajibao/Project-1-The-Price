@@ -166,11 +166,13 @@ main {
     height: 100px;
 
 }
-
+/* Main boxes*/
 
 #offical-offerbox {
-   
+    width: 100%;
+    height: 800px;
 }
+
 
 #offical-main-offerbox {
     width: 100%;
@@ -187,7 +189,8 @@ main {
     background-color: red;
     position: relative;
     bottom: 780px;
-    left: -10px;
+    
+    
 
 }
 
@@ -199,7 +202,33 @@ main {
     bottom: 570px;
     left: 80px;
     
+    
+}
 
+.styled-header3-text {
+    margin: 10px;
+    color: #ffffff;
+}
+
+
+#offical-mini-offerbox-left ul,
+#offical-mini-offerbox-right ul{
+    list-style-type: none;
+    
+}
+
+#offical-mini-offerbox-left li, #offical-mini-offerbox-right li {
+    margin: 10px;
+}
+
+#offical-mini-offerbox-left a,
+#offical-mini-offerbox-right a {
+    color: #ffffff;
+}
+
+#offical-mini-offerbox-left a:hover,
+#offical-mini-offerbox-right a:hover {
+    color: black;
 }
 
 /* Footer */
