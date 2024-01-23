@@ -34,7 +34,7 @@ header {
 
 header a {
     text-decoration: none;
-    color: black;
+    color: #ffffff;
 }
 
 h1 {
@@ -208,6 +208,7 @@ main {
 .styled-header3-text {
     margin: 10px;
     color: #ffffff;
+    text-align: center;
 }
 
 
