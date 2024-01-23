@@ -245,11 +245,19 @@ main {
  margin: 1rem;
 }
 
-
+.store-session > h2,h3, h4 {
+    margin: 1rem;
+}
 
 .img-storelogo{
     width: 100%;
+    margin-top: 10px;
 }
+
+hr {
+    margin: 40px 0;
+}
+
 /* Footer */
 #social-networks {
     text-align: center;
@@ -259,6 +267,8 @@ main {
     list-style-type: none;
 
 }
+
+
 
 #social-networks i {
     font-size: 160%;
