@@ -242,11 +242,11 @@ main {
 
 
 .store-session p {
- margin: 1rem;
+ margin: 8px;
 }
 
 .store-session > h2, .store-session > h3, .store-session > h4 {
-    margin: 1rem;
+    margin: 8px;
 }
 
 .img-storelogo{
@@ -259,9 +259,49 @@ hr {
 }
 
 .container-info-box {
-    color: red;
-    margin-top: 20px;
+    background-color: red;
+    color: #ffffff;
+    margin-top: 10px;
     }
+
+.product-bg {
+    width: 100%;
+    height: 276px;
+    background-color: #ffffff;
+    margin-top: 5px;
+}
+#product-1 {
+    width: 276px;
+    height: 276px;
+    background: url(../images/Pågenlimpan.jpg) center center/ cover no-repeat;
+    width: 100%
+}
+
+#product-2 {
+    width: 276px;
+    height: 276px;
+    background: url(../images/Högrevsfärs.jpg) center center/ cover no-repeat;
+    width: 100%
+}
+
+#product-3 {
+    width: 276px;
+    height: 276px;
+    background: url(../images/Jättefranska\ .jpg) center center/ cover no-repeat;
+    width: 100%
+}
+
+#product-4 {
+    width: 276px;
+    height: 276px;
+    background: url(../images/Toalettpapper_Hushållspapper.png) center center/ cover no-repeat;
+    width: 100%
+}
+
+.container-info-box h3, .container-info-box h4, .container-info-box p, .container-info-box ul {
+    margin-top: 5px;
+    margin-left: 5px;
+}
 
 /* Footer */
 #social-networks {
