@@ -14,7 +14,7 @@ body{
     display: flex;
     flex-direction: column;
     /* Generic project styles*/
-    color: 3a3a3a;
+    color: #ffffff;
     font-family: 'Lato', sans-serif;
     
 }
@@ -274,33 +274,56 @@ hr {
     width: 276px;
     height: 276px;
     background: url(../images/Pågenlimpan.jpg) center center/ cover no-repeat;
-    width: 100%
+    
 }
 
 #product-2 {
     width: 276px;
     height: 276px;
     background: url(../images/Högrevsfärs.jpg) center center/ cover no-repeat;
-    width: 100%
+    
 }
 
 #product-3 {
     width: 276px;
     height: 276px;
     background: url(../images/Jättefranska\ .jpg) center center/ cover no-repeat;
-    width: 100%
+    
 }
 
 #product-4 {
     width: 276px;
     height: 276px;
-    background: url(../images/Toalettpapper_Hushållspapper.png) center center/ cover no-repeat;
-    width: 100%
+    background: url(../images/Toalettpapper\ 6-pack.jpg) center center/ cover no-repeat;
+    
 }
 
 .container-info-box h3, .container-info-box h4, .container-info-box p, .container-info-box ul {
-    margin-top: 5px;
+    margin-top: 10px;
     margin-left: 5px;
+}
+
+
+table {
+    width: 100%;
+    margin-top: 10px;
+}
+
+tr {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+tr,
+th,
+td {
+    text-align: left;
+}
+
+th,
+td {
+    border: 1px solid #ffffff;
+    padding: 5px;
 }
 
 /* Footer */
