@@ -240,6 +240,18 @@ main {
     color: black;
 }
 
+
+#store-willys-minibox{
+    width: 100%;
+    height: 300px;
+    background-color: red;
+    position: relative;
+    bottom: 780px;
+}
+
+.img-storelogo{
+    width: 100%;
+}
 /* Footer */
 #social-networks {
     text-align: center;
