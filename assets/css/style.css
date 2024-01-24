@@ -357,7 +357,7 @@ td {
 #social-networks i {
     font-size: 160%;
     padding: 5%;
-    color: #3a3a3a;
+    color: red;
 }
 
 /* Media query: tablets and larger (768px and up)*/
@@ -489,6 +489,59 @@ td {
         border-bottom: 1px solid #3a3a3a;
     }
 
-
     
+    #offical-mini-offerbox-right {
+    width: 350px;
+    bottom: 580px;
+    left: 700px;
+    
+}
+
+#product-1,
+#product-2,
+#product-3,
+#product-4 {
+    margin-left: 350px;
+}
+
+
+}
+
+@media screen and (min-width: 1440px) {
+
+   
+    .mini-offerbox {
+        width: 300px;
+        height: 300px;
+    }
+
+    .mini-offerbox p {
+        font-size: 120%;
+            }
+
+    #offical-mini-offerbox-right {
+        width: 350px;
+        bottom: 580px;
+        left: 1300px;
+    }
+
+        #product-1,
+        #product-2,
+        #product-3,
+        #product-4 {
+            margin-left: 700px;
+        }
+
+        .container-info-box h2 {
+            margin-left: 10px;
+
+        }
+    
+        .fact-box p, .fact-box h3, .fact-box ul {
+            margin-left: 10px;
+            ;
+        }
+
+
+
 }
