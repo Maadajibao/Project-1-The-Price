@@ -13,58 +13,58 @@ Users of this website will se which store has an sale on a item and by few kicks
 * Navigation
    * Featured at the top of the page, the navigation bar shows the website name in the left corner(in white color): The Price that links to the home page.
    * The other navigation links are to the right: Offers, Store and About us. These links take you to their own pages.
- * The navigation font are in white color to stand out from the red background.
- * The navigation lets the user now what site they are on and its easy to navigate.
+   * The navigation font are in white color to stand out from the red background.
+   * The navigation lets the user now what site they are on and its easy to navigate.
 
 ![navbar](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/4b1e14ac-7918-4305-8e5e-004a9919e214)
 
 
 * This weeks offers
- * Here the user will se it stating "This weeks offer" in red color contrasting the white background.
- * Blow the heading four picture with a text underneath will let the user now what product it is and the price.
- * When hovering the user will notice that the pictures are links, links that takes you to the product page when pressed.
+   * Here the user will se it stating "This weeks offer" in red color contrasting the white background.
+   * Blow the heading four picture with a text underneath will let the user now what product it is and the price.
+   * When hovering the user will notice that the pictures are links, links that takes you to the product page when pressed.
 
 ![thisweekoffer](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/47c5d455-4552-4985-b330-b15373d8256d)
 
 
 
 * Mini Offer Section
- * This section the users will se a picture of fruit to create familiarity. The picture also have some sales signs show and sign stating save.
- * To the top left and the bottom right of the page there are two red colored blocks with links of offer.
- * In the red blocks is a heading stating the name of the store at the top. Below the heading there are links with the name of the product and the price.
- * These links will open up in a new tab taking you to the store and the product page.
+   * This section the users will se a picture of fruit to create familiarity. The picture also have some sales signs show and sign stating save.
+   * To the top left and the bottom right of the page there are two red colored blocks with links of offer.
+   * In the red blocks is a heading stating the name of the store at the top. Below the heading there are links with the name of the product and the price.
+   * These links will open up in a new tab taking you to the store and the product page.
   
 ![minioffersection](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/0eeb9ff3-f019-47d3-aa53-4c9b71ffe196)
 
 
 * Footer
- * There are four images that are links. They are in the same theme color, red. 
- * These links will take you to Facebook, Youtubute, Instagram and Twitter.
+   * There are four images that are links. They are in the same theme color, red. 
+   * These links will take you to Facebook, Youtubute, Instagram and Twitter.
 
 ![footer](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/0129ff82-3116-43f7-9f22-6a4873c9b206)
 
 
 * Page: Offers
- * Below the navigation there is a text telling users which page there are on.
- * As the home page the customer will se a picture of a grociery store, on this page there are two sections of this concept with to diffrent pictures.
- * There are two blocks with links of offers to the top left and bottom right on each picture.
- * The links are to diffrent stores, willys, coop, ica and lidl.
- * These links displays what product each store has on sale at the moment.
+   * Below the navigation there is a text telling users which page there are on.
+   * As the home page the customer will se a picture of a grociery store, on this page there are two sections of this concept with to diffrent pictures.
+   * There are two blocks with links of offers to the top left and bottom right on each picture.
+   * The links are to diffrent stores, willys, coop, ica and lidl.
+   * These links displays what product each store has on sale at the moment.
   
 ![offers](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/5f71a822-551e-484d-b08a-a71478662ddd)
 
 
 * Page: Stores
- * Below the navigation there is a text telling users which page there are on.
- * Each store as a section with, background information. A map of nearest store and opening times.
+   * Below the navigation there is a text telling users which page there are on.
+   * Each store as a section with, background information. A map of nearest store and opening times.
 
 ![stores](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/09367663-0173-4edf-8f5a-872e121c80bb)
 
 
 * Page: About us
- * Here the user will find information about the store.
- * Information about the concept of the site is state and how to contact us.
- * If customer have some feedback they can send them in by writing in the feedback form.
+   * Here the user will find information about the store.
+   * Information about the concept of the site is state and how to contact us.
+   * If customer have some feedback they can send them in by writing in the feedback form.
 
 ![about us](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/ab1550ad-8cde-4b3f-915b-0a5ec0d13cf6)
 
