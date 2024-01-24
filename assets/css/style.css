@@ -102,6 +102,7 @@ main {
     margin: 10px;
     font-weight: bolder;
     font-size: 1.25rem;
+    color: red;
     
 }
 
@@ -306,7 +307,7 @@ hr {
 
 table {
     width: 100%;
-    margin-top: 10px;
+    margin-top: 20px;
 }
 
 tr {
@@ -323,7 +324,17 @@ td {
 th,
 td {
     border: 1px solid #ffffff;
-    padding: 5px;
+    padding: 3px;
+}
+
+.table-link-white a {
+    color: #ffffff;
+
+}
+
+.table-link-white a:hover {
+    color: black;
+
 }
 
 /* Footer */
@@ -378,6 +389,59 @@ td {
         /* Push main content down to accommodate larger header*/
         margin-top: 79px;
     }
+.styled-header-text {
+    font-size: 180%;
+}
+
+.mini-offerbox {
+
+}
+
+#mini-ob-pic-1 {
+    background: url(../images/Jättefranska\ .jpg) center center / 150px 150px no-repeat;
+    width: 150px;
+    height: 150px;
+
+}
+
+#mini-ob-pic-2 {
+    background: url(../images/Högrevsfärs.jpg) center center / 150px 150px no-repeat;
+    width: 150px;
+    height: 150px;
+
+}
+
+#mini-ob-pic-3 {
+    background: url(../images/Toalettpapper_Hushållspapper.png) center center / 150px 150px no-repeat;
+    width: 150px;
+    height: 150px;
+
+}
+
+#mini-ob-pic-4 {
+    background: url(../images/Pågenlimpan.jpg) center center / 150px 150px no-repeat;
+    width: 150px;
+    height: 150px;
+
+}
+
+#offical-mini-offerbox-left {
+    width: 350px;
+    font-size: 120%;
+    bottom: 790px;
+    
+
+
+}
+
+#offical-mini-offerbox-right {
+    width: 350px;
+    font-size: 120%;
+    bottom: 570px;
+    left: 400px;
+
+
+}
 
   
 } 
