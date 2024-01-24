@@ -14,7 +14,7 @@ body{
     display: flex;
     flex-direction: column;
     /* Generic project styles*/
-    color: #ffffff;
+    color: #3a3a3a;
     font-family: 'Lato', sans-serif;
     
 }
@@ -84,6 +84,7 @@ nav{
 
 .nav-toggle-label{
     font-size: 2rem;
+    color: #ffffff;
 }
 
 /* Main content*/
@@ -246,6 +247,10 @@ main {
  margin: 8px;
 }
 
+.store-session p {
+ margin: 8px;
+}
+
 .store-session > h2, .store-session > h3, .store-session > h4 {
     margin: 8px;
 }
@@ -393,9 +398,15 @@ td {
     font-size: 180%;
 }
 
-.mini-offerbox {
-
+..mini-offerbox{
+    width: 150px;
+    height: 150px;
 }
+
+#little-offerbox-1, #little-offerbox-2 {
+    height: 250px;
+}
+
 
 #mini-ob-pic-1 {
     background: url(../images/Jättefranska\ .jpg) center center / 150px 150px no-repeat;
@@ -429,7 +440,7 @@ td {
     width: 350px;
     font-size: 120%;
     bottom: 790px;
-    
+
 
 
 }
@@ -437,10 +448,35 @@ td {
 #offical-mini-offerbox-right {
     width: 350px;
     font-size: 120%;
-    bottom: 570px;
+    bottom: 580px;
     left: 400px;
 
 
+}
+
+.img-storelogo {
+    width: 80%;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.store-session {
+    font-size: 120%;
+}
+
+
+
+.fact-box{
+    font-size: 120%;
+}
+
+.product-bg {
+    width: 100%;
+    margin-top: 10px;
+}
+
+#product-1, #product-2, #product-3, #product-4 { 
+        margin-left: 250px;
 }
 
   
