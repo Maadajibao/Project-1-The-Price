@@ -11,8 +11,8 @@ Users of this website will se which store has an sale on a item and by few kicks
 ## Features
 
 * Navigation
- * Featured at the top of the page, the navigation bar shows the website name in the left corner(in white color): The Price that links to the home page.
- * The other navigation links are to the right: Offers, Store and About us. These links take you to their own pages.
+   * Featured at the top of the page, the navigation bar shows the website name in the left corner(in white color): The Price that links to the home page.
+   * The other navigation links are to the right: Offers, Store and About us. These links take you to their own pages.
  * The navigation font are in white color to stand out from the red background.
  * The navigation lets the user now what site they are on and its easy to navigate.
 
