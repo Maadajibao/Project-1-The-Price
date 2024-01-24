@@ -4,7 +4,8 @@ The Price is a site for those who wants to compare which of you local stores hav
 
 Users of this website will se which store has an sale on a item and by few kicks check other store to se if the price is lower or heigher. Here you can fins offers, which store are having them and you can compere prices. Users can find the nearest store to there location and their opening/closing times.
 
-[helhet](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/d92a1b2d-0efd-479d-8521-9d0bd7d55cf4)
+![The Price](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/d426211c-e004-41b2-95bf-6350b6a890e2)
+
 
 
 ## Features
@@ -61,9 +62,9 @@ Users of this website will se which store has an sale on a item and by few kicks
 
 
 * Page: About us
-* Here the user will find information about the store.
-* Information about the concept of the site is state and how to contact us.
-* If customer have some feedback they can send them in by writing in the feedback form.
+ * Here the user will find information about the store.
+ * Information about the concept of the site is state and how to contact us.
+ * If customer have some feedback they can send them in by writing in the feedback form.
 
 ![about us](https://github.com/Maadajibao/Project-1-The-Price/assets/139248826/ab1550ad-8cde-4b3f-915b-0a5ec0d13cf6)
 
