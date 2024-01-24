@@ -464,6 +464,11 @@ td {
     font-size: 120%;
 }
 
+.feedback-us {
+    margin-left: 10px;
+    font-size: 120%;
+}
+
 
 
 .fact-box{
@@ -489,6 +494,10 @@ td {
         border-bottom: 1px solid #3a3a3a;
 }
 
+#menu{
+    font-size: 120%;
+}
+
     
 .offical-mini-offerbox-right {
     width: 350px;
@@ -509,6 +518,10 @@ td {
 
 @media screen and (min-width: 1440px) {
 
+
+#menu {
+        font-size: 120%;
+    }
    
 .mini-offerbox {
         width: 300px;
