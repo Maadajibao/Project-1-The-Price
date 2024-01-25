@@ -118,6 +118,7 @@ The live link to this page - [The Price](https://maadajibao.github.io/Project-1-
 
 * The code to make the social media links was taken from the CI Love Running Project.
 * The code to make the navigation section was taken from the CI Love Running Project.
+* The code to make the map frame is taken from google.
   
 ### Media
 
